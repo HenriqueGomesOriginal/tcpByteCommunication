@@ -1,0 +1,7 @@
+﻿  Adapter.cpp
+c:\users\henrique\documents\visual studio 2017\tcpbytecomunication\tcpbytecomunication\adapter.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\henrique\documents\visual studio 2017\tcpbytecomunication\tcpbytecomunication\adapter.cpp(70): warning C4101: 'valread': unreferenced local variable
+c:\users\henrique\documents\visual studio 2017\tcpbytecomunication\tcpbytecomunication\adapter.cpp(69): warning C4101: 'address': unreferenced local variable
+c:\users\henrique\documents\visual studio 2017\tcpbytecomunication\tcpbytecomunication\adapter.cpp(68): warning C4101: 'hints': unreferenced local variable
+c:\users\henrique\documents\visual studio 2017\tcpbytecomunication\tcpbytecomunication\adapter.cpp(70): warning C4101: 'addrlen': unreferenced local variable
+  TcpByteComunication.vcxproj -> C:\Users\Henrique\Documents\Visual Studio 2017\TcpByteComunication\Release\TcpByteComunication.exe
